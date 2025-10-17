@@ -21,7 +21,7 @@ Weir, Bruce S., and Jérôme Goudet. "A unified characterization of population s
 
 Slatkin, Montgomery. "A measure of population subdivision based on microsatellite allele frequencies." Genetics 139.1 (1995): 457-462.
 
-- **Goldstein's (δμ)^2
+- **Goldstein's $(δμ)^2$**
 - 
 - **Reynolds's Fst**
 
