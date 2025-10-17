@@ -9,4 +9,6 @@ Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysi
 
 Excoffier, Laurent, Peter E. Smouse, and Joseph M. Quattro. "Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data." Genetics 131.2 (1992): 479-491.
 
-3. 
+**3. Weir and Goudet's βst**
+
+Weir, Bruce S., and Jérôme Goudet. "A unified characterization of population structure and relatedness." Genetics 206.4 (2017): 2085-2103.
