@@ -1,11 +1,11 @@
 # Methods for analyzing population structure
 
 ## distance-based approaches
-**1. Weir and Cockerham’s Fst. This is widely used.**
+**1. Weir and Cockerham’s Fst. (widely used)**
 
 Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 
-**2. Analysis of molecular variance. This is originally developed on mitochondrial DNA sequences, but Arlequin program has implemented the method for genotypic data. This is widely used.**
+**2. Analysis of molecular variance. This is originally developed on mitochondrial DNA sequences, but Arlequin program has implemented the method for genotypic data. (widely used)**
 
 Excoffier, Laurent, Peter E. Smouse, and Joseph M. Quattro. "Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data." Genetics 131.2 (1992): 479-491.
 
@@ -25,9 +25,24 @@ Reynolds, John, Bruce S. Weir, and C. Clark Cockerham. "Estimation of the coance
 
 Nei, Masatoshi. "Analysis of gene diversity in subdivided populations." Proceedings of the national academy of sciences 70.12 (1973): 3321-3323.
 
-**7. Splitze's Qst for quantitative trait. Not relevant to this study but I put it here for completeness.**
+Nei, Masatoshi. "Definition and estimation of fixation indices." Evolution (1986): 643-645.
+
+**7. Splitze's Qst for quantitative trait.**
 
 Spitze, Ken. "Population structure in Daphnia obtusa: quantitative genetic and allozymic variation." Genetics 135.2 (1993): 367-374.
 
+**8. principal component analysis (widely used).**
 
+**9. Hudson's Kst for DNA sequence data.**
+
+Hudson, Richard R., Dennis D. Boos, and Norman L. Kaplan. "A statistical test for detecting geographic subdivision." Molecular biology and evolution 9.1 (1992): 138-151.
+
+**10. Hudson's Fst. Estimator is derived by Bhatia et al. (2013).**
+
+Hudson, Richard R., Montgomery Slatkin, and Wayne P. Maddison. "Estimation of levels of gene flow from DNA sequence data." Genetics 132.2 (1992): 583-589.
+
+Bhatia, Gaurav, et al. "Estimating and interpreting FST: the impact of rare variants." Genome research 23.9 (2013): 1514-1521.
 ## model-based approaches
+
+**Review articles for population differentiation estimators:**
+
