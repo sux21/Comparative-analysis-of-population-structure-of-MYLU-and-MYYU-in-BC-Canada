@@ -77,7 +77,7 @@ Corander, Jukka, et al. "BAPS 2: enhanced possibilities for the analysis of gene
 
 François, Olivier, Sophie Ancelet, and Gilles Guillot. "Bayesian clustering using hidden Markov random fields in spatial population genetics." Genetics 174.2 (2006): 805-816.
 
-
+- **ADMIXTURE: maximum likelihood with cross-validation procedure. I am interested in how I can do cross-validation in STRUCTURE program, or is it necessary.**
 
 
 
