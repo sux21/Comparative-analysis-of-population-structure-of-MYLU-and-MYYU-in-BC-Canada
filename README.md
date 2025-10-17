@@ -19,3 +19,10 @@ How microsatellites and SNPs show different results in genetic differentiation?
 - Álvarez, Isabel, et al. "Population structure assessed using microsatellite and SNP data: an empirical comparison in West African cattle." Animals 11.1 (2021): 151.
 - Liu, Nianjun, et al. "Comparison of single-nucleotide polymorphisms and microsatellites in inference of population structure." Bmc Genetics 6.Suppl 1 (2005): S26.
 - Skey, Ebony D., et al. "Empirical landscape genetic comparison of single nucleotide polymorphisms and microsatellites in three arid‐zone mammals with high dispersal capacity." Ecology and Evolution 13.5 (2023): e10037.
+
+Previous studies on MYLU population structure
+- Burns, Lynne E., Hugh G. Broders, and Timothy R. Frasier. "Characterization of 11 tetranucleotide microsatellite loci for the little brown bat (Myotis lucifugus) based on in silico genome sequences." Conservation Genetics Resources 4.3 (2012): 653-655.
+- Burns, Lynne E., Timothy R. Frasier, and Hugh G. Broders. "Genetic connectivity among swarming sites in the wide ranging and recently declining little brown bat (M yotis lucifugus)." Ecology and Evolution 4.21 (2014): 4130-4149.
+- Johnson, Laura NL, et al. "Population genetic structure within and among seasonal site types in the little brown bat (Myotis lucifugus) and the northern long-eared bat (M. septentrionalis)." PLoS One 10.5 (2015): e0126309.
+- McLeod, B. A., et al. "Effect of oceanic straits on gene flow in the recently endangered little brown bat (Myotis lucifugus) in maritime Canada: implications for the spread of white-nose syndrome." Canadian Journal of Zoology 93.6 (2015): 427-437.
+- Davy, Christina M., et al. "Prelude to a panzootic: Gene flow and immunogenetic variation in northern little brown myotis vulnerable to bat white-nose syndrome." Facets 2.2 (2017): 690-714.
