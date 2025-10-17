@@ -1,15 +1,15 @@
 # Methods for analyzing population structure
 
 ## distance-based approaches
-- **Weir and Cockerham’s Fst. (widely used)**
+- **Weir and Cockerham’s Fst. (will use)**
 
 Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 
-- **Analysis of molecular variance. This is originally developed on mitochondrial DNA sequences, but Arlequin program has implemented the method for genotypic data. (widely used)**
+- **Analysis of molecular variance. This is originally developed on mitochondrial DNA sequences, but Arlequin program has implemented the method for genotypic data. (will use)**
 
 Excoffier, Laurent, Peter E. Smouse, and Joseph M. Quattro. "Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data." Genetics 131.2 (1992): 479-491.
 
-- **principal component analysis (widely used).**
+- **principal component analysis (will use).**
 
 - **Discriminant analysis of principal components. used by past lab member.**
 
@@ -57,5 +57,35 @@ Hudson, Richard R. "A new statistic for detecting genetic differentiation." Gene
 
 
 ## model-based approaches
+- **Bayesian**
+Holsinger, Kent E. "Analysis of genetic diversity in geographically structured populations: a Bayesian perspective." Hereditas 130.3 (1999): 245-255.
+
+- **hierarchical Bayesian model**
+
+Song, Seongho, Dipak K. Dey, and Kent E. Holsinger. "Differentiation among populations with migration, mutation, and drift: implications for genetic inference." Evolution 60.1 (2006): 1-12.
+
+- **Bayesian statistical inference to cluster individuals based on multi-locus genotypes. (will do using STRUCTURE program)**
+
+STRUCTURE program literature: Pritchard, Jonathan K., Matthew Stephens, and Peter Donnelly. "Inference of population structure using multilocus genotype data." Genetics 155.2 (2000): 945-959.
+
+STRUCTURE program literature: Falush, Daniel, Matthew Stephens, and Jonathan K. Pritchard. "Inference of population structure using multilocus genotype data: linked loci and correlated allele frequencies." Genetics 164.4 (2003): 1567-1587.
+
+Dawson, Kevin J., and Khalid Belkhir. "A Bayesian approach to the identification of panmictic populations and the assignment of individuals." Genetics Research 78.1 (2001): 59-77.
+
+Corander, Jukka, et al. "BAPS 2: enhanced possibilities for the analysis of genetic population structure." Bioinformatics 20.15 (2004): 2363-2369.
+
+François, Olivier, Sophie Ancelet, and Gilles Guillot. "Bayesian clustering using hidden Markov random fields in spatial population genetics." Genetics 174.2 (2006): 805-816.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
