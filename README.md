@@ -26,3 +26,5 @@ Previous studies on MYLU population structure
 - Johnson, Laura NL, et al. "Population genetic structure within and among seasonal site types in the little brown bat (Myotis lucifugus) and the northern long-eared bat (M. septentrionalis)." PLoS One 10.5 (2015): e0126309.
 - McLeod, B. A., et al. "Effect of oceanic straits on gene flow in the recently endangered little brown bat (Myotis lucifugus) in maritime Canada: implications for the spread of white-nose syndrome." Canadian Journal of Zoology 93.6 (2015): 427-437.
 - Davy, Christina M., et al. "Prelude to a panzootic: Gene flow and immunogenetic variation in northern little brown myotis vulnerable to bat white-nose syndrome." Facets 2.2 (2017): 690-714.
+
+No published studies on population sturcture on MYYU 
