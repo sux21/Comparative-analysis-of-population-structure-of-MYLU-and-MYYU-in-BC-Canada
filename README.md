@@ -11,3 +11,5 @@ Hayward Lake and Stave Lake Lodge have different structure of bats. Can we see a
 Landscape genetics
 - isolation by distance
 - landscape features to include: elevation (MYYU and MYLU use different elevation), human buildings (both species like it, may not see an effect), light (MYYU doesn't like it, but MYLU likes it), Look at Adrian's Pd article on what he used (https://pmc.ncbi.nlm.nih.gov/articles/PMC8001231/)
+
+The magnitude of Fst is influenced by allele frequencies (https://academic.oup.com/genetics/article/193/2/515/6065345?login=false). Do we need some adjustments to compare Fst between MYLU and MYYU?
