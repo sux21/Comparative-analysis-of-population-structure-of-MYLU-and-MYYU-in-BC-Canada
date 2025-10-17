@@ -11,7 +11,7 @@ Excoffier, Laurent, Peter E. Smouse, and Joseph M. Quattro. "Analysis of molecul
 
 - **principal component analysis (will use).**
 
-- **Discriminant analysis of principal components. used by past lab member.**
+- **discriminant analysis of principal components. used by past lab member.**
 
 - **Weir and Goudet's βst. This has population-specific Fst which may reveal more variation.**
 
@@ -58,6 +58,7 @@ Hudson, Richard R. "A new statistic for detecting genetic differentiation." Gene
 
 ## model-based approaches
 - **Bayesian**
+
 Holsinger, Kent E. "Analysis of genetic diversity in geographically structured populations: a Bayesian perspective." Hereditas 130.3 (1999): 245-255.
 
 - **hierarchical Bayesian model**
