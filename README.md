@@ -35,6 +35,18 @@ Previous studies on MYLU population structure
 - **(not MYLU specifically, but has a phylogenetic tree for many Myotis species)** Stadelmann, B., et al. "Molecular phylogeny of New World Myotis (Chiroptera, Vespertilionidae) inferred from mitochondrial and nuclear DNA genes." Molecular phylogenetics and evolution 43.1 (2007): 32-48.
 - Wilder, Aryn P., Thomas H. Kunz, and Michael D. Sorenson. "Population genetic structure of a common host predicts the spread of white‐nose syndrome, an emerging infectious disease in bats." Molecular ecology 24.22 (2015): 5495-5506.
 - Wilder, Aryn P. Spatial, ecological and genetic correlates of the geographic expansion of an infectious disease, white-nose syndrome in bats. Diss. Boston University, 2014.
-
+- Blejwas, Karen M., et al. "The Milieu Souterrain Superficiel as hibernation habitat for bats: implications for white-nose syndrome." Journal of Mammalogy 102.4 (2021): 1110-1127.
 
 No published studies on population sturcture on MYYU except ours (https://www.mdpi.com/2076-2615/15/4/578)
+
+
+white-nose syndrome management
+- Whiting‐Fawcett, Flora, et al. "A Palearctic view of a bat fungal disease." Conservation Biology 39.1 (2025): e14265.
+
+
+
+
+
+
+
+
