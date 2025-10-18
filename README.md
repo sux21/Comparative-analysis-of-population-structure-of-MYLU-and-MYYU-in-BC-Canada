@@ -28,12 +28,13 @@ Previous studies on MYLU population structure
 - Davy, Christina M., et al. "Prelude to a panzootic: Gene flow and immunogenetic variation in northern little brown myotis vulnerable to bat white-nose syndrome." Facets 2.2 (2017): 690-714.
 - Vonhof, Maarten J., Amy L. Russell, and Cassandra M. Miller-Butterworth. "Range-wide genetic analysis of little brown bat (Myotis lucifugus) populations: estimating the risk of spread of white-nose syndrome." PLoS One 10.7 (2015): e0128713.
 - Miller-Butterworth, Cassandra M., et al. "Genetic structure of little brown bats (Myotis lucifugus) corresponds with spread of white-nose syndrome among hibernacula." Journal of Heredity 105.3 (2014): 354-364.
-- (Review article) Blejwas, Karen, et al. "Could white-nose syndrome manifest differently in Myotis lucifugus in western versus eastern regions of North America? A review of factors." The Journal of Wildlife Diseases 59.3 (2023): 381-397.
+- **(Review article)** Blejwas, Karen, et al. "Could white-nose syndrome manifest differently in Myotis lucifugus in western versus eastern regions of North America? A review of factors." The Journal of Wildlife Diseases 59.3 (2023): 381-397.
 - Lausen, C. L., et al. "Beyond mtDNA: nuclear gene flow suggests taxonomic oversplitting in the little brown bat (Myotis lucifugus)." Canadian Journal of Zoology 86.7 (2008): 700-713.
 - Davy, Christina M., et al. "Spatial genetic structure among bat hibernacula along the leading edge of a rapidly spreading pathogen." Conservation Genetics 16.5 (2015): 1013-1024.
 - Morales, Ariadna E., and Bryan C. Carstens. "Evidence that Myotis lucifugus “subspecies” are five nonsister species, despite gene flow." Systematic Biology 67.5 (2018): 756-769.
-- (not MYLU specifically, but has a phylogenetic tree for many Myotis species) Stadelmann, B., et al. "Molecular phylogeny of New World Myotis (Chiroptera, Vespertilionidae) inferred from mitochondrial and nuclear DNA genes." Molecular phylogenetics and evolution 43.1 (2007): 32-48.
-
+- **(not MYLU specifically, but has a phylogenetic tree for many Myotis species)** Stadelmann, B., et al. "Molecular phylogeny of New World Myotis (Chiroptera, Vespertilionidae) inferred from mitochondrial and nuclear DNA genes." Molecular phylogenetics and evolution 43.1 (2007): 32-48.
+- Wilder, Aryn P., Thomas H. Kunz, and Michael D. Sorenson. "Population genetic structure of a common host predicts the spread of white‐nose syndrome, an emerging infectious disease in bats." Molecular ecology 24.22 (2015): 5495-5506.
+- Wilder, Aryn P. Spatial, ecological and genetic correlates of the geographic expansion of an infectious disease, white-nose syndrome in bats. Diss. Boston University, 2014.
 
 
 No published studies on population sturcture on MYYU except ours (https://www.mdpi.com/2076-2615/15/4/578)
