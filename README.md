@@ -4,7 +4,7 @@ How the population structure help conservation of bats? populations that are sep
 
 Choices of sample size and sampling site
 - For each site, increase sample sizes to at least 10
-- Include Condo as a site, need to wait for MYLU samples for DNA extraction and microsatellite genotyping.
+- Include Condo as a site, need to wait for MYLU samples for microsatellite genotyping.
 
 Hayward Lake and Stave Lake Lodge have different structure of bats. Can we see a difference in their genetic patterns?
 
