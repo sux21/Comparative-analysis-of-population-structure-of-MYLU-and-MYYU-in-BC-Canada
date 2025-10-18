@@ -8,8 +8,6 @@ Choices of sample size and sampling site
 
 Hayward Lake and Stave Lake Lodge have different structure of bats. Can we see a difference in their genetic patterns?
 
-Is there a way to estimate the migration rate? This may provide a more direct feeling of population connectivity.
-
 How landscape and environmental factors affect population differentiation (landscape genetics)?
 - isolation by distance
 - landscape features to include: elevation (MYYU and MYLU use different elevation), human buildings (both species like it, may not see an effect), light (MYYU doesn't like it, but MYLU likes it), Look at Adrian's Pd article on what he used (https://pmc.ncbi.nlm.nih.gov/articles/PMC8001231/)
