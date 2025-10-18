@@ -14,6 +14,8 @@ How landscape and environmental factors affect population differentiation (lands
 
 The magnitude of Fst is influenced by allele frequencies (https://academic.oup.com/genetics/article/193/2/515/6065345?login=false). Do we need some adjustments to compare Fst between MYLU and MYYU?
 
+How can we deal with errors during allele and genotyping scoring? I am thinking about simulating data with different error probability changing the allele to another allele in the data (see https://pubmed.ncbi.nlm.nih.gov/15315672/).
+
 How microsatellites and SNPs show different results in genetic differentiation?
 - Zimmerman, Shawna J., Cameron L. Aldridge, and Sara J. Oyler-McCance. "An empirical comparison of population genetic analyses using microsatellite and SNP data for a species of conservation concern." BMC genomics 21.1 (2020): 382.
 - Álvarez, Isabel, et al. "Population structure assessed using microsatellite and SNP data: an empirical comparison in West African cattle." Animals 11.1 (2021): 151.
