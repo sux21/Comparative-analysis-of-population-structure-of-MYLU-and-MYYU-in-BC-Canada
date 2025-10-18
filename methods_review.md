@@ -35,6 +35,14 @@ Nei, Masatoshi. "Analysis of gene diversity in subdivided populations." Proceedi
 
 Nei, Masatoshi. "Definition and estimation of fixation indices." Evolution (1986): 643-645.
 
+- **Nei's D**
+
+Nei, Masatoshi. "Genetic distance between populations." The American Naturalist 106.949 (1972): 283-292.
+
+- **Jost's D**
+
+Jost, LOU19238703. "GST and its relatives do not measure differentiation." Molecular ecology 17.18 (2008): 4015-4026.
+
 - **Splitze's Qst for quantitative trait.**
 
 Spitze, Ken. "Population structure in Daphnia obtusa: quantitative genetic and allozymic variation." Genetics 135.2 (1993): 367-374.
