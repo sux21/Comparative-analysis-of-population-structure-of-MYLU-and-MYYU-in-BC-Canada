@@ -38,7 +38,8 @@ Previous studies on MYLU population structure
 - Wilder, Aryn P., Thomas H. Kunz, and Michael D. Sorenson. "Population genetic structure of a common host predicts the spread of white‐nose syndrome, an emerging infectious disease in bats." Molecular ecology 24.22 (2015): 5495-5506.
 - Wilder, Aryn P. Spatial, ecological and genetic correlates of the geographic expansion of an infectious disease, white-nose syndrome in bats. Diss. Boston University, 2014.
 - Blejwas, Karen M., et al. "The Milieu Souterrain Superficiel as hibernation habitat for bats: implications for white-nose syndrome." Journal of Mammalogy 102.4 (2021): 1110-1127.
-
+- Dixon, Michael D. "Population genetic structure and natal philopatry in the widespread North American bat Myotis lucifugus." Journal of Mammalogy 92.6 (2011): 1343-1351.
+  
 No published studies on population sturcture on MYYU except ours (https://www.mdpi.com/2076-2615/15/4/578)
 
 
