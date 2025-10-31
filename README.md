@@ -25,6 +25,9 @@ How microsatellites and SNPs show different results in genetic differentiation?
 How to deal with inconsistency between migration and population structure?
 - Alicia M Korpach, Evelien de Greef, Levi Newediuk, Chloé Schmidt, Colin J Garroway, Matt J Thorstensen, Moving to mate? Migration strategy does not predict genetic structure or diversity in bats (Chiroptera), Biological Journal of the Linnean Society, Volume 145, Issue 3, July 2025, blae068, https://doi.org/10.1093/biolinnean/blae068 
 
+How social behaviours of bats affect population structure?
+- https://link.springer.com/article/10.1007/s00265-022-03265-8
+
 Previous studies on MYLU population structure
 - Burns, Lynne E., Hugh G. Broders, and Timothy R. Frasier. "Characterization of 11 tetranucleotide microsatellite loci for the little brown bat (Myotis lucifugus) based on in silico genome sequences." Conservation Genetics Resources 4.3 (2012): 653-655.
 - Burns, Lynne E., Timothy R. Frasier, and Hugh G. Broders. "Genetic connectivity among swarming sites in the wide ranging and recently declining little brown bat (M yotis lucifugus)." Ecology and Evolution 4.21 (2014): 4130-4149.
