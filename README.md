@@ -53,7 +53,8 @@ white-nose syndrome management
 - Whiting‐Fawcett, Flora, et al. "A Palearctic view of a bat fungal disease." Conservation Biology 39.1 (2025): e14265.
 
 
-
+Genome assembly:
+- MYLU: https://www.ensembl.org/Myotis_lucifugus/Info/Annotation
 
 
 
