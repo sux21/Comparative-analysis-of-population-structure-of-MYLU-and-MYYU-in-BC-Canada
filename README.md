@@ -54,7 +54,7 @@ white-nose syndrome management
 
 
 Genome assembly:
-- MYLU: https://www.ensembl.org/Myotis_lucifugus/Info/Annotation
+- MYLU: Myoluc2.0 (https://www.ensembl.org/Myotis_lucifugus/Info/Annotation, https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000147115.1/), mMyoLuc1.0 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_048340685.1/)
 
 
 
