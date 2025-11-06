@@ -23,7 +23,7 @@ Let population frequency of allele A be $P(a_{ij}=A) = p$. <br>
 Inbreeding coefficient (probability of two alleles being identical by descent in one individual) be $F$. <br>
 Let probability of two alleles being identical by descent be $P(a_{ij} = a_{kl})$.  
 
-Thus, $P(a_{i1} = A, a_{i2} = A) = P(a_{i1} = A) P(a_{i2} = A | a_{i1} = A) = p[F_{i} + (1-F_{i})p]$
+Probability of two alleles in individual i being both A (can be identical by descent or not identical by descent) = $P(a_{i1} = A, a_{i2} = A) = P(a_{i1} = A) P(a_{i2} = A | a_{i1} = A) = p[F_{i} + (1-F_{i})p]$.
 
 For random genes,
 
@@ -47,7 +47,15 @@ Ex_{ij}^2 = 1^2 \cdot p + 0 \cdot (1-p) = p
 \end{aligned}
 ```
 
-
+```math
+\begin{aligned}
+\sigma_{x_{i1}x_{i2}} &= Ex_{i1}x_{i2} - Ex_{i1}Ex_{i2} \\
+                      &= 1 \cdot P(a_{i1} = A, a_{i2} = A) + 0 \cdot P(a_{i1} = A, a_{i2} = A) - p \cdot p \\
+                      &= p[F_{i} + (1-F_{i})p] - p^2 \\
+                      &= pF_{i} + p^2 - p^2 F_{i} - p^2 \\
+                      &= pF_{i}(1-p)
+\end{aligned}
+```
 
 
 
@@ -61,6 +69,7 @@ Ex_{ij}^2 = 1^2 \cdot p + 0 \cdot (1-p) = p
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
