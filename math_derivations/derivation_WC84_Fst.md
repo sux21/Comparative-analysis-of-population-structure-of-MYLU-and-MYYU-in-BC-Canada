@@ -11,12 +11,12 @@ Let $a_{ij}$ represent an index of jth allele in ith individual.
 
 Define $x_{ij} = $ 
 
-\[ f(n) =
+$ f(n) =
   \begin{cases}
     n/2       & \quad \text{if } n \text{ is even}\\
     -(n+1)/2  & \quad \text{if } n \text{ is odd}
   \end{cases}
-\]
+$
 
 
 
@@ -34,6 +34,7 @@ Define $x_{ij} = $
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
