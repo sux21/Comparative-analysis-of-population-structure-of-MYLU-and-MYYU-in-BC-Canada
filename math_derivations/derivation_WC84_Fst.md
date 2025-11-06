@@ -9,14 +9,22 @@ Original derived in the article "Analyses of gene frequencies"
 ### Assumptions: diploid organism, one locus, two alleles
 Let $a_{ij}$ represent an index of jth allele in ith individual. 
 
-Define $x_{ij} = $ 
+Define $x_{ij}$: 
 
 ```math
 x_{ij} =
   \begin{cases}
     1       & \quad \text{if } a_{ij} = A, \\
-    0  & \quad \text{if } a_{ij} \neq A 
+    0  & \quad \text{if } a_{ij} \neq A.
   \end{cases}
+```
+
+Let population frequency of allele A be $P(a_{ij}=A) = p$.
+
+For random genes,
+
+```math
+Ex_{ij}=1 \cdot p + 0 \cdot (1-p) = p
 ```
 
 
@@ -33,6 +41,7 @@ x_{ij} =
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
