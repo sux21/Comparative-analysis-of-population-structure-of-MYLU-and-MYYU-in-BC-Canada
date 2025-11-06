@@ -69,7 +69,11 @@ Ex_{ij}^2 = 1^2 \cdot p + 0 \cdot (1-p) = p
 \end{aligned}
 ```
 
+Mean allele frequency of allele A in a sample of $N$ diploid individuals:
 
+```math
+\hat{p} = \bar{x}_{..} = \frac{\sum_{i=1}^{N} \sum_{j=1}^{2} x_{ij}}{2N}
+```
 
 
 
@@ -79,6 +83,7 @@ Ex_{ij}^2 = 1^2 \cdot p + 0 \cdot (1-p) = p
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
