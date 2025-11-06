@@ -3,8 +3,9 @@
 
 Discrete random variable: $EX = \sum_{k=1}^{\infty} x_{k}p_{k}$
 
+Continuous random variable: $EX = \int\limits_{-\infty}^{+\infty} xf(x) dx$
 ## Properties
-1. $EC=C$, C is a constant 
+1. $EC=C$, $C$ is a constant 
 
 2. $E(X+C) = EX+C$
 
