@@ -90,9 +90,18 @@ Cov(X,Y) &= E[(X - EX)(Y - EY)] \\
 \end{aligned}
 ```
 
-Another equation:
+Other equations:
 ```math
 D(X \pm Y) = DX \pm DY \pm 2Cov(X,Y)
+```
+
+```math
+\begin{aligned}
+D(X + Y + Z) &= Cov(X+Y+Z, X+Y+Z) \\
+             &= E[(X+Y+Z)(X+Y+Z)] - E(X+Y+Z)E(X+Y+Z) \\
+             &= E(X^2 + XY + XZ + YX + Y^2 + YZ + ZX + ZY + Z^2) - (EX+EY+EZ)(EX+EY+EZ) \\
+             &= E(X^2) + E(Y^2) + E(Z^2) + 2E(XY) + 2E(XZ) + 2E(YZ) - (EX)^2 - EXEY - EXEZ - EXEY -  
+\end{aligned}
 ```
 
 
