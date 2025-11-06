@@ -14,5 +14,5 @@ Discrete random variable: $EX = \sum_{k=1}^{\infty} x_{k}p_{k}$
 
 5. $E(X \pm Y) = EX \pm EY$
 
-6. $X and Y are independent, E(XY) = EX \cdot EY$
+6. $\text{X and Y are independent, } E(XY) = EX \cdot EY$
 
