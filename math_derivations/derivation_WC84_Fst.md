@@ -25,7 +25,7 @@ Let probability of two alleles being identical by descent be $P(a_{ij} = a_{kl})
 
 Probability of two alleles in individual i being both A (can be identical by descent or not identical by descent) = $P(a_{i1} = A, a_{i2} = A) = P(a_{i1} = A) P(a_{i2} = A | a_{i1} = A) = p[F_{i} + (1-F_{i})p]$.
 
-Probability of any two alleles in any individuals being both A (can be identical by descent or not identical by descent): $P(a_{ij} = A, a_{kl} = A) = P(a_{ij} = A) P(a_{kl} = A | a_{ij} = A) = p[P(a_{kl} \equiv a_{kl}) + (1-P(a_{kl} \equiv a_{kl}))p]$. 
+Probability of any two alleles in any individuals being both A (can be identical by descent or not identical by descent) = $P(a_{ij} = A, a_{kl} = A) = P(a_{ij} = A) P(a_{kl} = A | a_{ij} = A) = p[P(a_{kl} \equiv a_{kl}) + (1-P(a_{kl} \equiv a_{kl}))p]$. 
 
 For random genes,
 
@@ -83,6 +83,7 @@ Mean allele frequency of allele A in a sample of $N$ diploid individuals:
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
