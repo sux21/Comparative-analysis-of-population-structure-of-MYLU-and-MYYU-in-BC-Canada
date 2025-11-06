@@ -6,16 +6,16 @@ There is a single ancestral population in Hardy-Weinberg equilibrium and linkage
 ## 1. Derive components of variance (Ea, Eb, Ec) and equation 1
 Original derived in the article "Analyses of gene frequencies"
 
-### Assumptions: diploid organism, one locus, two alleles ($A$, $\bar{A}$)
+### Assumptions: diploid organism, one locus, two alleles
 Let $a_{ij}$ represent an index of jth allele in ith individual. 
 
 Define $x_{ij} = $ 
 
 ```math
-f(n) =
+x_{ij} =
   \begin{cases}
-    n/2       & \quad \text{if } n \text{ is even}\\
-    -(n+1)/2  & \quad \text{if } n \text{ is odd}
+    1       & \quad if a_{ij} = A, \\
+    0  & \quad if a_{ij} \neq A 
   \end{cases}
 ```
 
@@ -33,6 +33,7 @@ f(n) =
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
