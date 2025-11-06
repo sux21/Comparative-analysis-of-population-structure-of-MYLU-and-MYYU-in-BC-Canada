@@ -10,7 +10,7 @@ EX = \sum_{k=1}^{\infty} x_{k}p_{k}
 Continuous random variable: 
 
 ```math
-EX = \int\limits_{-\infty}^{+\infty} xf(x) \mathrm d x
+EX = \int\limits_{-\infty}^{+\infty} xf(x) \mathrm dx
 ```
 
 ## Properties
