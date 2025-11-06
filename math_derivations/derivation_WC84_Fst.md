@@ -32,7 +32,15 @@ Ex_{ij}^2 = 1^2 \cdot p + 0 \cdot (1-p) = p
 ```
 
 ```math
-\sigma_{x_{ij}}^2 = E[(x_{ij} - Ex_{ij})^2] = E[x_{ij}^2 - 2x_{ij}Ex_{ij} + (Ex_{ij})^2] = Ex_{ij}^2 - 2Ex_{ij}Ex_{ij} + (Ex_{ij})^2 = Ex_{ij}^2 - 2(Ex_{ij})^2 + (Ex_{ij})^2 = Ex_{ij}^2 - (Ex_{ij})^2 = p^2 -p = p(1-p)
+\begin{aligned}
+\sigma_{x_{ij}}^2 &= E[(x_{ij} - Ex_{ij})^2] \\
+                  & = E[x_{ij}^2 - 2x_{ij}Ex_{ij} + (Ex_{ij})^2] \\
+                  & = Ex_{ij}^2 - 2Ex_{ij}Ex_{ij} + (Ex_{ij})^2 \\
+                  & = Ex_{ij}^2 - 2(Ex_{ij})^2 + (Ex_{ij})^2 \\
+                  & = Ex_{ij}^2 - (Ex_{ij})^2 \\
+                  & = p^2 -p \\
+                  & = p(1-p)
+\begin{aligned}
 ```
 
 
@@ -49,6 +57,7 @@ Ex_{ij}^2 = 1^2 \cdot p + 0 \cdot (1-p) = p
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
