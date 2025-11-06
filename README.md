@@ -14,6 +14,8 @@ How landscape and environmental factors affect population differentiation (lands
 
 Do a directional gene flow analysis: https://pmc.ncbi.nlm.nih.gov/articles/PMC4842207/
 
+How to interpret low or negative Fst: https://pmc.ncbi.nlm.nih.gov/articles/PMC3426483/
+
 The magnitude of Fst is influenced by allele frequencies (https://academic.oup.com/genetics/article/193/2/515/6065345?login=false). Do we need some adjustments to compare Fst between MYLU and MYYU?
 
 How can we deal with errors during allele and genotyping scoring? I am thinking about simulating data with different error probability changing the allele to another allele in the data (see https://pubmed.ncbi.nlm.nih.gov/15315672/).
