@@ -49,8 +49,7 @@ EX = \int\limits_{-\infty}^{+\infty} g(x)f(x) dx
 DX = E(X - EX)^2
 ```
 
-Second equation:
-
+Another equation can be derived from definition:
 ```math
 \begin{aligned}
 DX &= E(X-EX)^2 \\
@@ -60,3 +59,54 @@ DX &= E(X-EX)^2 \\
    &= EX^2 - (EX)^2
 \end{aligned}
 ```
+
+## Properties
+
+1. $DC = 0$
+
+2. $D(X+C) = DX$
+
+3. $D(CX) = C^2 DX$
+
+4. $D(kx+b) = k^2 DX$
+
+5. $\text{X, Y are independent, } D(X \pm Y) = DX \pm DY$
+
+
+# Covariance
+## Definition
+
+```math
+Cov(X,Y) = E[(X - EX)(Y - EY)]
+```
+
+Another equation can be derived from definition:
+```math
+\begin{aligned}
+Cov(X,Y) &= E[(X - EX)(Y - EY)] \\
+         &= E(XY - XEY - YEX + EXEY) \\
+         &= E(XY) - EYEX - EXEY + EXEY \\
+         &= E(XY) - EXEY
+\end{aligned}
+```
+
+Another equation:
+```math
+D(X \pm Y) = DX \pm DY \pm 2Cov(X,Y)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
