@@ -15,7 +15,7 @@ Define $x_{ij}$:
 x_{ij} =
   \begin{cases}
     1       & \quad \text{if } a_{ij} = A, \\
-    0  & \quad \text{if } a_{ij} \neq A.
+    0       & \quad \text{if } a_{ij} \neq A.
   \end{cases}
 ```
 
@@ -24,6 +24,8 @@ Inbreeding coefficient (probability of two alleles being identical by descent in
 Let probability of two alleles being identical by descent be $P(a_{ij} = a_{kl})$.  
 
 Probability of two alleles in individual i being both A (can be identical by descent or not identical by descent) = $P(a_{i1} = A, a_{i2} = A) = P(a_{i1} = A) P(a_{i2} = A | a_{i1} = A) = p[F_{i} + (1-F_{i})p]$.
+
+Probability of any two alleles in any individuals being both A (can be identical by descent or not identical by descent): $P(a_{ij} = A, a_{kl} = A) = P(a_{ij} = A) P(a_{kl} = A | a_{ij} = A) = p[P(a_{kl} \equiv a_{kl}) + (1-P(a_{kl} \equiv a_{kl}))p]$. 
 
 For random genes,
 
@@ -57,7 +59,15 @@ Ex_{ij}^2 = 1^2 \cdot p + 0 \cdot (1-p) = p
 \end{aligned}
 ```
 
-
+```math
+\begin{aligned}
+\sigma_{x_{ij}x_{kl}} &= Ex_{ij}x_{kl} - Ex_{ij}Ex_{kl} \\
+                      &= 1 \cdot P(a_{ij} = A, a_{kl} = A) + 0 \cdot P(a_{ij} = A, a_{kl} = A) - p \cdot p \\
+                      &= p[P(a_{kl} \equiv a_{kl}) + (1-P(a_{kl} \equiv a_{kl}))p] - p^2 \\
+                      &= pP(a_{kl} \equiv a_{kl}) + p^2 - p^2 P(a_{kl} \equiv a_{kl}) - p^2 \\
+                      &= pP(a_{kl} \equiv a_{kl})(1-p)
+\end{aligned}
+```
 
 
 
@@ -69,6 +79,7 @@ Ex_{ij}^2 = 1^2 \cdot p + 0 \cdot (1-p) = p
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
