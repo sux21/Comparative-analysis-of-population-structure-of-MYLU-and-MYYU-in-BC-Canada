@@ -1,9 +1,18 @@
 # Expectation
 ## Definitions
 
-Discrete random variable: $EX = \sum_{k=1}^{\infty} x_{k}p_{k}$
+Discrete random variable: 
 
-Continuous random variable: $EX = \int\limits_{-\infty}^{+\infty} xf(x) \mathrm d x$
+```math
+EX = \sum_{k=1}^{\infty} x_{k}p_{k}
+```
+
+Continuous random variable: 
+
+```math
+EX = \int\limits_{-\infty}^{+\infty} xf(x) \mathrm d x
+```
+
 ## Properties
 1. $EC=C$, $C$ is a constant 
 
