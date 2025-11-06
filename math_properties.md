@@ -26,3 +26,18 @@ EX = \int\limits_{-\infty}^{+\infty} xf(x) dx
 
 6. $\text{X and Y are independent, } E(XY) = EX \cdot EY$
 
+## Expectation of a function of random variable
+
+Y=g(x)
+
+Y is discrete:
+
+```math
+EX = \sum g(x_{k})p_{k}
+```
+
+Y is continuous:
+
+```math
+EX = \int\limits_{-\infty}^{+\infty} g(x)f(x) dx
+```
