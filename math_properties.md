@@ -41,3 +41,20 @@ Y is continuous:
 ```math
 EX = \int\limits_{-\infty}^{+\infty} g(x)f(x) dx
 ```
+
+# Variance
+## Definition
+
+```math
+DX = E(X - EX)^2
+```
+
+Second equation:
+
+```math
+DX &= E(X-EX)^2 \\
+   &= E(X^2 - 2XEX + (EX)^2) \\
+   &= EX^2 - 2EXEX + (EX)^2 \\
+   &= EX^2 - 2(EX)^2 + (EX)^2 \\
+   &= EX^2 - (EX)^2
+```
