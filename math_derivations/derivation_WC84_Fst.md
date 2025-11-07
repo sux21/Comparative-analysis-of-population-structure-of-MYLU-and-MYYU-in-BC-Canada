@@ -85,6 +85,8 @@ Variance of this allele frequency of the sample can be calculated:
                    &= \frac{1}{4N^2} [\sigma_{x_{11}}^2 + \sigma_{x_{12}}^2 + \sigma_{x_{21}}^2 + \sigma_{x_{22}}^2 + \cdots + 2 \sigma_{x_{11}x_{12}} + 2 \sigma_{x_{21}x_{22}} + \cdots + 2 \sigma_{x_{11}x_{21}} + 2 \sigma_{x_{11}x_{22}} + \cdots] \\
                    &= \frac{1}{4N^2} [\sum_{i=1}^N \sum_{j=1}^2 \sigma_{x_{ij}}^2 + 2 \sum_{i=1}^N \sigma_{x_{i1}x_{i2}} + 2 \sum_{i < k}^N \sum_{j=1}^2 \sum_{l=1}^2 \sigma_{x_{ij}x_{kl}}] \\
                    &= \frac{1}{4N^2} [\sum_{i=1}^N \sum_{j=1}^2 p(1-p) + 2 \sum_{i=1}^N pF_{i}(1-p) + 2 \sum_{i < k}^N \sum_{j=1}^2 \sum_{l=1}^2 pP(a_{ij} \equiv a_{kl})(1-p)] \\
+
+\bar{F} = \frac{\sum_{i=1}^{N} F_{i}}{N}, \bar{\theta} = \frac{\sum_{i < k}^N \sum_{j=1}^2 \sum_{l=1}^2 P(a_{ij} \equiv a_{kl})}{\frac{N(N-1}{2} \cdot 4}
 \end{aligned}
 ```
 
@@ -92,6 +94,7 @@ Variance of this allele frequency of the sample can be calculated:
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
