@@ -34,7 +34,7 @@ Ex_{ij}=1 \cdot p + 0 \cdot (1-p) = p
 ```
 
 ```math
-Ex_{ij}^2 = 1^2 \cdot p + 0 \cdot (1-p) = p
+Ex_{ij}^2 = 1^2 \cdot p + 0^2 \cdot (1-p) = p
 ```
 
 ```math
@@ -90,6 +90,7 @@ Variance of this allele frequency of the sample can be calculated:
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
