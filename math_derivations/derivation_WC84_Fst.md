@@ -87,11 +87,10 @@ Variance of this allele frequency of the sample can be calculated:
 \end{aligned}
 ```
 
-                   &= \frac{1}{4N^2} [\sum_{i=1}^N \sum_{j=1}^2 \sigma_{x_{ij}}^2 + 2 \sum_{i=1}^N \sigma_{x_{i1}x_{i2}} + 2 \sum_{i<k}^N \sum_{j=1}^2 \sum_{i=1}^2 \sigma_{x_{ij}x_{kl}}] 
-
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
