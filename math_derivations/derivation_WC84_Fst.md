@@ -107,11 +107,14 @@ Define $\bar{F}$ as an average of all $F_{i}$ values (total is $N$), $\bar{\thet
 \end{aligned}
 ```
 
-Let $\theta_l = \frac{1+\bar{F}}{2N} + \frac{N-1}{N} \bar{\theta}$ be the concestry of the group with itself, probability of a random pair of alleles from a group of individuals are identical by descent. 
+Let $\theta_l = \frac{1+\bar{F}}{2N} + \frac{N-1}{N} \bar{\theta}$ be the coancestry of the group with itself, probability of a random pair of alleles from a group of individuals are identical by descent. 
+
+$\sigma_{\hat{p}}^2 = \theta_l p(1-p)$
 
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
