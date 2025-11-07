@@ -75,7 +75,13 @@ Mean allele frequency of allele A in a sample of $N$ diploid individuals:
 \hat{p} = \bar{x}_{..} = \frac{\sum_{i=1}^{N} \sum_{j=1}^{2} x_{ij}}{2N}
 ```
 
+Variance of this allele frequency of the sample can be calculated:
 
+```math
+\begin{aligned}
+\sigma_{\hat{p}}^2 &= \sigma^2 (\frac{\sum_{i=1}^{N} \sum_{j=1}^2 x_{ij}}{2N})
+\end{aligned}
+```
 
 
 
@@ -83,6 +89,7 @@ Mean allele frequency of allele A in a sample of $N$ diploid individuals:
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
