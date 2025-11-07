@@ -88,7 +88,7 @@ Variance of this allele frequency of the sample can be calculated:
 \end{aligned}
 ```
 
-Define $\bar{F}$ as an average of all $F_{i}$ values (total is $N$), $\bar{\theta}$ as an average of all $P(a_{ij} \equiv a_{kl})$ values (total is $\frac{N(N-1)}{2} \cdot 4$)
+Define $\bar{F}$ as an average of all $F_{i}$ values (total is $N$), $\bar{\theta}$ as an average of all $P(a_{ij} \equiv a_{kl})$ values (total is $\frac{N(N-1)}{2} \cdot 4$):
 
 ```math
 \bar{F} = \frac{\sum_{i=1}^{N} F_{i}}{N}
@@ -98,9 +98,17 @@ Define $\bar{F}$ as an average of all $F_{i}$ values (total is $N$), $\bar{\thet
 \bar{\theta} = \frac{\sum_{i < k}^N \sum_{j=1}^2 \sum_{l=1}^2 P(a_{ij} \equiv a_{kl})}{\frac{N(N-1)}{2} \cdot 4}
 ```
 
+```math
+\begin{aligned}
+\sigma_{\hat{p}}^2 &= \frac{1}{4N^2} [\sum_{i=1}^N \sum_{j=1}^2 p(1-p) + 2 \sum_{i=1}^N pF_{i}(1-p) + 2 \sum_{i < k}^N \sum_{j=1}^2 \sum_{l=1}^2 pP(a_{ij} \equiv a_{kl})(1-p)] \\
+                   &= \frac{2N p(1-p)}{4N^2} + \frac{p(1-p) \sum_{i=1}^N F_i}{2N \cdot N} + \frac{p(1-p) \sum_{i < k}^N \sum_{j=1}^2 \sum_{l=1}^2 P(a_{ij} \equiv a_{kl})}{\frac{N}{N-1} \cdot \frac{N(N-1)}{2} \cdot 4}
+\end{aligned}
+```
+
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
