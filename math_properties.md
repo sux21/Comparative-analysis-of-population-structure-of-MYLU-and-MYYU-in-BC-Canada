@@ -100,7 +100,8 @@ D(X \pm Y) = DX \pm DY \pm 2Cov(X,Y)
 D(X + Y + Z) &= Cov(X+Y+Z, X+Y+Z) \\
              &= E[(X+Y+Z)(X+Y+Z)] - E(X+Y+Z)E(X+Y+Z) \\
              &= E(X^2 + XY + XZ + YX + Y^2 + YZ + ZX + ZY + Z^2) - (EX+EY+EZ)(EX+EY+EZ) \\
-             &= E(X^2) + E(Y^2) + E(Z^2) + 2E(XY) + 2E(XZ) + 2E(YZ) - (EX)^2 - EXEY - EXEZ - EXEY -  
+             &= E(X^2) + E(Y^2) + E(Z^2) + 2E(XY) + 2E(XZ) + 2E(YZ) - (EX)^2 - EXEY - EXEZ - EXEY - EYEX - (EY)^2 - EYEZ - EZEX - EZEY - (EZ)^2 \\
+             &= E(X^2) - (EX)^2 + E(Y^2) - (EY)^2 + E(Z^2) - (EZ)^2    
 \end{aligned}
 ```
 
