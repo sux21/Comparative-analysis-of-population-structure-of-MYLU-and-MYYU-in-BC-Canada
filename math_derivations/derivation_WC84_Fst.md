@@ -101,13 +101,15 @@ Define $\bar{F}$ as an average of all $F_{i}$ values (total is $N$), $\bar{\thet
 ```math
 \begin{aligned}
 \sigma_{\hat{p}}^2 &= \frac{1}{4N^2} [\sum_{i=1}^N \sum_{j=1}^2 p(1-p) + 2 \sum_{i=1}^N pF_{i}(1-p) + 2 \sum_{i < k}^N \sum_{j=1}^2 \sum_{l=1}^2 pP(a_{ij} \equiv a_{kl})(1-p)] \\
-                   &= \frac{2N p(1-p)}{4N^2} + \frac{p(1-p) \sum_{i=1}^N F_i}{2N \cdot N} + \frac{p(1-p) \sum_{i < k}^N \sum_{j=1}^2 \sum_{l=1}^2 P(a_{ij} \equiv a_{kl})}{\frac{N}{N-1} \cdot \frac{N(N-1)}{2} \cdot 4}
+                   &= \frac{2N p(1-p)}{4N^2} + \frac{p(1-p) \sum_{i=1}^N F_i}{2N \cdot N} + \frac{p(1-p) \sum_{i < k}^N \sum_{j=1}^2 \sum_{l=1}^2 P(a_{ij} \equiv a_{kl})}{\frac{N}{N-1} \cdot \frac{N(N-1)}{2} \cdot 4} \\
+                   &= p(1-p) [\frac{1}{2N} + \frac{\bar{F}}{2N} + \frac{N-1}{N} \bar{\theta}] \\
 \end{aligned}
 ```
 
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
