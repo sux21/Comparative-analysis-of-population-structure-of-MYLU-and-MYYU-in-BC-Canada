@@ -79,7 +79,9 @@ Variance of this allele frequency of the sample can be calculated:
 
 ```math
 \begin{aligned}
-\sigma_{\hat{p}}^2 &= \sigma^2 (\frac{\sum_{i=1}^{N} \sum_{j=1}^2 x_{ij}}{2N})
+\sigma_{\hat{p}}^2 &= \sigma^2 (\frac{\sum_{i=1}^{N} \sum_{j=1}^2 x_{ij}}{2N}) \\
+                   &= \frac{1}{4N^2} \sigma^2 (\sum_{i=1}^{N} \sum_{j=1}^2 x_{ij}) \\
+                   &= \frac{1}{4N^2} \sigma^2 (x_{11} + x_{12} + x_{21} + x_{22} + \cdots)
 \end{aligned}
 ```
 
@@ -89,6 +91,7 @@ Variance of this allele frequency of the sample can be calculated:
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
