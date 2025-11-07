@@ -88,7 +88,7 @@ Variance of this allele frequency of the sample can be calculated:
 \end{aligned}
 ```
 
-Define $\bar{F}$ as an average of all $F_{i}$ values (total is $N$), $\bar{\theta}$ as an average of all $P(a_{ij} \equiv a_{kl})$ values (total is $\frac{N(N-1)}{2} \cdot 4$
+Define $\bar{F}$ as an average of all $F_{i}$ values (total is $N$), $\bar{\theta}$ as an average of all $P(a_{ij} \equiv a_{kl})$ values (total is $\frac{N(N-1)}{2} \cdot 4$)
 
 ```math
 \bar{F} = \frac{\sum_{i=1}^{N} F_{i}}{N}
@@ -101,6 +101,7 @@ Define $\bar{F}$ as an average of all $F_{i}$ values (total is $N$), $\bar{\thet
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
