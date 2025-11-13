@@ -108,13 +108,19 @@ Substitute to these to the variance of this allele frequency:
 \end{aligned}
 ```
 
-Let $\theta_l = \frac{1+\bar{F}}{2N} + \frac{N-1}{N} \bar{\theta}$ be the coancestry of the group with itself, probability of a random pair of alleles from a group of individuals are identical by descent. 
+Let $\theta_l = \frac{1+\bar{F}}{2N} + \frac{N-1}{N} \bar{\theta}$ be the coancestry of the group with itself, probability of a random pair of alleles with replacement from a group of individuals are identical by descent. 
 
-Variance of allele frequency is thus: $\sigma_{\hat{p}}^2 = \theta_l p(1-p)$
+Variance of allele frequency is thus: 
+
+```math
+\sigma_{\hat{p}}^2 = \theta_l p(1-p)
+```
+
 
 References: <br>
 1. Weir, Bruce S., and C. Clark Cockerham. "Estimating F-statistics for the analysis of population structure." evolution (1984): 1358-1370.
 2. Cockerham, C. Clark. "Analyses of gene frequencies." Genetics 74.4 (1973): 679.
+
 
 
 
