@@ -53,6 +53,8 @@ Previous studies on MYLU population structure
   
 No published studies on population sturcture on MYYU except ours (https://www.mdpi.com/2076-2615/15/4/578)
 
+bat migration
+- Kaleigh J. O. Norquay, Felix Martinez-Nuñez, Jack E. Dubois, Kim M. Monson, Craig K. R. Willis, Long-distance movements of little brown bats (Myotis lucifugus), Journal of Mammalogy, Volume 94, Issue 2, 16 April 2013, Pages 506–515, https://doi.org/10.1644/12-MAMM-A-065.1 
 
 white-nose syndrome management
 - Whiting‐Fawcett, Flora, et al. "A Palearctic view of a bat fungal disease." Conservation Biology 39.1 (2025): e14265.
