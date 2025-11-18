@@ -72,7 +72,7 @@ DX &= E(X-EX)^2 \\
 
 5. $\text{X, Y are independent, } D(X \pm Y) = DX \pm DY$
 
-## Sample variannce, also called mean square
+## Sample variance, also called mean square
 
 ```math
 s^2 = \frac{1}{n} \sum (Y_i - \bar{Y})^2, \bar{Y} \text{ is sample mean}
